@@ -1,0 +1,25 @@
+{
+  "name": "merge-i18n",
+  "version": "1.0.1",
+  "description": "合并多语言文件",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcly861204/webpack-plugin-merge-i18n.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "js",
+    "i18n"
+  ],
+  "author": "tcly861204@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tcly861204/webpack-plugin-merge-i18n/issues"
+  },
+  "homepage": "https://github.com/tcly861204/webpack-plugin-merge-i18n#readme"
+}
