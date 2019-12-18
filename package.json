@@ -1,6 +1,6 @@
 {
   "name": "merge-i18n",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "合并多语言文件",
   "main": "lib/main.min.js",
   "scripts": {
