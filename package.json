@@ -2,7 +2,7 @@
   "name": "merge-i18n",
   "version": "1.0.2",
   "description": "合并多语言文件",
-  "main": "main.js",
+  "main": "lib/main.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
